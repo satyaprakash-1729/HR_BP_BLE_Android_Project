@@ -10,4 +10,6 @@ The tools/instruments used for the development of the project are listed below:-
 - Android Device
 
 ### Snapshots
-![Pic1](/images/logo.png)
+
+<img src="Images/ECG.png" height="500" width="300" alt="ECG Signal">    <img src="Images/PPG.png" height="500" width="300" alt="PPG Signal 1">
+<center><img src="Images/PPG1.png" height="500" width="300" alt="PPG signal 2"></center>
